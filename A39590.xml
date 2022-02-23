@@ -1,0 +1,383 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Additions au traité de l'eau de mer douce faisant voir les avantages qui en reviennent tant sur mer que sur terre : avec la lettre de Mr. Boyle &amp; le sentiment du college des medecins de Londres sur la qualité de cette eau : outre les nouvelles experiences du Sieur Nehemie Crew, membre de ce college &amp; de la societé royale / le tout traduit de l'Anglois par le sieur Guy Miege.</title>
+            <title>Farther additions to a small treatise called Salt-water sweetned. French</title>
+            <author>Fitzgerald, R. (Robert)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 38 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39590</idno>
+            <idno type="STC">Wing F1077</idno>
+            <idno type="STC">ESTC R37819</idno>
+            <idno type="EEBO-CITATION">17054871</idno>
+            <idno type="OCLC">ocm 17054871</idno>
+            <idno type="VID">105841</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39590)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105841)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1615:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Additions au traité de l'eau de mer douce faisant voir les avantages qui en reviennent tant sur mer que sur terre : avec la lettre de Mr. Boyle &amp; le sentiment du college des medecins de Londres sur la qualité de cette eau : outre les nouvelles experiences du Sieur Nehemie Crew, membre de ce college &amp; de la societé royale / le tout traduit de l'Anglois par le sieur Guy Miege.</title>
+                  <title>Farther additions to a small treatise called Salt-water sweetned. French</title>
+                  <author>Fitzgerald, R. (Robert)</author>
+                  <author>Miege, Guy, 1644-1718?</author>
+                  <author>Boyle, Robert, 1627-1691. A letter of Mr. Boyles to the learned Dr. John Beale ... concerning fresh-water made out of sea-water.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>Quatriéme edition.</edition>
+               </editionStmt>
+               <extent>[6], 25 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>A Londres :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of the author's Farther additions to a small treatise called Salt-water sweetned.</note>
+                  <note>Imperfect: cropped with loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="frm">frm</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Seawater --  Distillation --  Early works to 1800.</term>
+               <term>Saline water conversion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="fre">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105841:1" rendition="simple:additions"/>
+            <p>ADDITIONS Au Traité de L'EAU DE MER DOUCE; Faiſant voir Les Avantages qui en reviennent, tant ſur Mer que ſur Terre. AVEC La Lettre de Mr. <hi>Boyle,</hi> &amp; le Senti<g ref="char:EOLhyphen"/>ment du College des Medecins de Londres, ſur la Qualité de cette Eau. OUTRE Les Nouvelles Experiences du Sieur <hi>Nehemie Crew,</hi> Membre de ce Col<g ref="char:EOLhyphen"/>lege, &amp; de la Societé Royale.</p>
+            <p>Le Tout Traduit de l'Anglois, Par le Sieur <hi>Guy Miege.</hi>
+            </p>
+            <p>Quatriéme Edition.</p>
+            <p>A LONDRES. 1684.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:105841:2"/>
+            <pb facs="tcp:105841:2" rendition="simple:additions"/>
+            <head>AU SERENISSIME PRINCE CHARLES II. ROI DE LA GRANDE BRETAGNE.</head>
+            <opener>
+               <salute>SIRE,</salute>
+            </opener>
+            <p>LORS que j'eu l'honneur derniere<g ref="char:EOLhyphen"/>ment d'être admis avec Mr. Boyle &amp; mes Aſſociez en la preſence de VOTRE MAJESTE, ſur l'Invention de rendre douce l'Eau Salée, V. M. parut ſi ſatisſaite d'une Choſe ſi importante au Public, que nous ſommes obligez de Vous en
+<pb facs="tcp:105841:3"/>
+temoigner nos tres humbles Reconoiſſances. Cependant, comme il n'eſt pas aiſé de ſur<g ref="char:EOLhyphen"/>prendre un Prince ſi eclairé &amp; ſi judicieux, &amp; que VOTRE MAJESTE ne don<g ref="char:EOLhyphen"/>ne jamais ſon Approbation ſans être bien appuyée, Elle ſuſpendit les dernieres Mar<g ref="char:EOLhyphen"/>ques de ſa Protection &amp; Faveur dans ce Deſſein, juſqu'a ce qu'elle eut examiné cette Affaire à fond. Mais, auſſi tôt que nous eumes eclairci toutes les Difficultez, &amp; re<g ref="char:EOLhyphen"/>pondu à toutes les Objections, comme il pa<g ref="char:EOLhyphen"/>roit dans cet Imprimé, VOTRE MAJESTE eut la bonté de nous donner ſon Approbati<g ref="char:EOLhyphen"/>on, &amp; de nous accorder ſes <hi>LETTRES PATENTES;</hi> que nous avons receue<g ref="char:cmbAbbrStroke">̄</g>s avec toute ſorte de Soumiſſion &amp; de Reco<g ref="char:EOLhyphen"/>noiſſance. Il eſt vrai qu'aprês cela il s'eſt preſenté des Obſtacles qui nous ont empeché pendant quêque tems d'en tirer les Avantages qu'on s'en peut promettre. Le plus grand Obſta<g ref="char:EOLhyphen"/>cle, outre les Suggeſtions ſiniſtres d'une cer<g ref="char:EOLhyphen"/>taine Perſonne, eſt venu de cette horrible Conſpiration qui s'eſt depuis peu decouverte. Cette Surpriſe nous fit d'abord mettre à part nos Interets, pour admirer vôtre Delivrance; &amp; nous fit ſuſpendre nôtre Deſſein, pour
+<pb facs="tcp:105841:3" rendition="simple:additions"/>
+n'être pas Incommodes à VOTRE MA<g ref="char:EOLhyphen"/>JESTE, ni à Vos Miniſtres d'Etat, dans unc Conjoncture ſi delicate &amp; de la derniere importance à ces trois Royaumes. Mais aujourd'hui que nos Craintes ſont la plupart diſſipées, &amp; que nous voyons par la Grace de Dieu VOTRE MAJESTE s'affermir tous les jours de plus en plus ſun ſon Trône, nous prenons la Liberté de nous addreſſer encore une fois à Elle, &amp; de Lui conſacrer nos Soins, comme à un Prince dont l'Approbation ne peut qu'être de grand poids par toute la Terre. Mais il faut faire Ju<g ref="char:EOLhyphen"/>ſtice à Mr. Boyle, &amp; avouër que le Deſſein en est d'autant plus plauſible que c'eſt lui qui en a eté un des principaux Appuis. <g ref="char:V">Ʋ</g>n Deſſein veritablement digne d'un Genie ſi grand &amp; ſi bienfaiſant qu'eſt le ſien. Quêques Avantages que ſa Patrie, ou que le Monde mêmes, puiſſe tirer de cette Invention, il ne ſe propoſe d'autre Recompenſe que la Sa<g ref="char:EOLhyphen"/>tisfaction d'avoir obligé le Public. Et il ne ſe peut faire, qu'on n'en tire de grands Avantages, &amp; par Mer &amp; par Terre. Par Mer principalement dans les Voyages de long cours, où l'on est ſujet bien ſouvent à man<g ref="char:EOLhyphen"/>quer
+<pb facs="tcp:105841:4"/>
+d'eau; &amp; par Terre, dans les Ports de Mer, qui n'ont pas de bonne Eau douce. Outre que la Preparation en est aiſée, &amp; de peu de frais, &amp; que l'Eau en ſera tres ſaine. C'eſt ce qui paroitra plus amplement dans cet Imprimé, qui eſt tres humblement dedié à VOTRE MAJESTE, &amp; re<g ref="char:EOLhyphen"/>commendé à ſa Faveur Royale, par celui qui eſt avec toute ſorte de veneration,</p>
+            <closer>
+               <salute>SIRE,</salute>
+               <signed>De Vôtre Majeſté Le tres humble, tres-obeiſſant, &amp; tres fidelle Serviteur &amp; Sujet, FITZGERALD.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:105841:4" rendition="simple:additions"/>
+            <head>
+               <hi>L'Eau de Mer Douce.</hi> OU La Nouvelle Invention de rendre Douce l'Eau Salée.</head>
+            <p>IL y a long tems que l'on a travaillé à trou<g ref="char:EOLhyphen"/>ver le Secret, en deſſalant les Eaux ſalées, de les rendre ſalubres. Et, à dire le vrai, ſi l'on conſidere bien le fond de la Choſe, on peut dire que c'eſt un des plus grands Deſ<g ref="char:EOLhyphen"/>ſeins qui ſoient entrez dans l'Eſprit humain. Un Projet qui, ayant en fin heureuſement reuſſi, va ſe repandre par tout l'Univers, par les A<g ref="char:EOLhyphen"/>vantages qui en reviendront au Public, mais ſur tout aux Marchands &amp; Navigateurs.</p>
+            <p>On ſait aſſez, qu'entre les Incommoditez de la Mer celle des Eaux corrompues dans de grands Voyages eſt une des plus fâcheuſes &amp; des moins ſupportables. Cette ſeule Conſi<g ref="char:EOLhyphen"/>deration a degouté juſqu'ici une infinité de
+<pb n="2" facs="tcp:105841:5"/>
+perſonnes commodes &amp; robuſtes; qui, pre<g ref="char:EOLhyphen"/>nant leur Santé à coeur, n'ont point voulu s'expoſer à une Diete ſi rude &amp; ſi malſaine. Au lieu qu'aujourd'hui, en ſe ſervant de l'Eau deſ<g ref="char:EOLhyphen"/>ſalée ſuivant la nouvelle Invention, ce Pretexte n'aura plus de lieu, parce qu'il n'y aura plus rien à craindre de ce côté là.</p>
+            <p>D'ailleurs, quand on veut faire un Voyage de long cours, il faut faire de grandes Provi<g ref="char:EOLhyphen"/>ſions d'Eau douce, qui produiſent ces deux In<g ref="char:EOLhyphen"/>commoditez. L'une, que ces Proviſions oc<g ref="char:EOLhyphen"/>cupent une bonne partie d'un Navire, que l'on pourra maintenant remplir de Marchandiſes. L'autre, que l'on eſt ſouvent obligé (parti<g ref="char:EOLhyphen"/>culierement dans les Voyages d'Afrique &amp; des Indes) de mettre ſur le Tillac une partie de ces Proviſions; &amp; c'eſt un Encombrement qui empêche, comme chacun ſait, un Vaiſſeau de bien naviguer.</p>
+            <p>Au lieu que par ce Deſſein on remediera à ces Inconveniens. Outre qu'on epargnera les trois quarts de la Depenſe des Tonneaux; la<g ref="char:EOLhyphen"/>quelle eſt fort conſiderable, à cauſe des Cercles de fer avec quoi on les relie.</p>
+            <p>Il y a encore pluſieurs autres Inconveniens, à quoi les grands Voyages ſur Mer ont eté ſu<g ref="char:EOLhyphen"/>jets juſqu'ici, faute de cette Invention.</p>
+            <p>Car il eſt conſtant, que, pour faire Aiguade, les Vaiſſeaux ſont quêqueſois obligez de s'ecar<g ref="char:EOLhyphen"/>ter bien loin de leurs Routes. Ce qui retarde
+<pb n="3" facs="tcp:105841:5"/>
+beaucoup leur Voyage, &amp; leur fait p<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>dre bien ſouvent l'Occaſion du Vent.</p>
+            <p>On riſque d'ailleurs les Chaloupes &amp; les Gens de l'Equipage, qui periſſent ſouvent dans les Tempêtes.</p>
+            <p>Outre que les Matelots, etant à terre, pren<g ref="char:EOLhyphen"/>nent de là occaſion de s'enyvrer, qu'ils s'attirent ſouvent du mal par leurs Excês, &amp; qu'il leur arrive quêquefois d'être maltraitez par les Ha<g ref="char:EOLhyphen"/>bitans des Païs où ils vont faire de l'Eau.</p>
+            <p>Ce ſont ces Conſiderations, auſſi bien que l'Uſage dangereux des Eaux corrompues &amp; mal<g ref="char:EOLhyphen"/>ſaines dont on eſt quêquefois obligé de ſe ſervir, qui obligent les Maîtres des Navires d'augmen<g ref="char:EOLhyphen"/>ter leur Depenſe, en ſe chargeant d'un plus grand Nombre de Matelots qu'il ne ſeroit neceſſaire. Au lieu qu'avec l'Uſage de cette nouvelle In<g ref="char:EOLhyphen"/>vention il ne ſera pas beſoin d'avoir un ſi grand Equipage dans les Navires qu'il y a eu juſqu'ici. Ainſi les Maîtres des Navires &amp; les Marchands feront moins de frais, les uns &amp; les autres y trouveront leur conte.</p>
+            <p>A tous ces Inconveniens, que nous venons de rapporter, ajoutons encore celui ci. C'eſt qu'il arrive ſouvent, que des Vaiſſeaux faiſant Ai<g ref="char:EOLhyphen"/>guade ſont obligez de laiſſer promtement leurs Ancres &amp; leurs Cables, pour courir au Large, &amp; eviter le Danger des Côtes.</p>
+            <p>Le Secret de rendre l'Eau de Mer ſalubre previent toutes ces Incommoditez. Les Armées
+<pb n="4" facs="tcp:105841:6"/>
+Navales en tireront de grands Avantages; &amp; par ce Moyen l'on pourra facilement faire de grandes Decouvertes.</p>
+            <p>Les Côtes de Mer, &amp; toutes Places mari<g ref="char:EOLhyphen"/>times qui manquent de bonne Eau douce, com<g ref="char:EOLhyphen"/>me <hi>Veniſe, Amsterdam,</hi> &amp; <hi>Roterdam,</hi> pourront aiſément &amp; à bon marché ſuppleer à ce Defaut, en s'accommodant de la Machine avec les In<g ref="char:EOLhyphen"/>grediens à deſſaler l'Eau, &amp; à la rendre ſalubre &amp; bonne à boire.</p>
+            <p>A <hi>Portſmouth, Rocheſter,</hi> &amp; les Endroits Ma<g ref="char:EOLhyphen"/>recageux de la Province de <hi>Lincoln,</hi> où les Eaux ſont âpres &amp; malſaines, cette Invention pourra être d'un tres grand Uſage aux Famil<g ref="char:EOLhyphen"/>les. Et là où l'on fera grand Debit des In<g ref="char:EOLhyphen"/>grediens, on les pourra fournir à meilleur conte.</p>
+            <p>Mais ce n'eſt pas aſſez de faire voir les A<g ref="char:EOLhyphen"/>vantages qui naitront infailliblement d'un Deſ<g ref="char:EOLhyphen"/>ſein ſi plauſible. Il s'agit maintenant de lever tous les Doutes, &amp; de ſatisfaire à tout ce que l'on a pu objecter de plus raiſonnable au pre<g ref="char:EOLhyphen"/>judice de cette Invention. Et c'eſt ce que vous allez voir dans cette Suite de Queſtions &amp; de Reponſes.</p>
+            <pb n="5" facs="tcp:105841:6"/>
+            <p>Qu. 1. <hi>ON demande, ſi l'on pourra extraire ſur Mer autant d'Eau douce qu'il eſt ne<g ref="char:EOLhyphen"/>ceſſaire pour l'uſage d'aucun Navire.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Dans l'eſpace de vint &amp; quatre heures on en peut extraire environ quatre vints &amp; dix <hi>Gallons</hi> d'Angleterre, qui font trois cens ſoixan<g ref="char:EOLhyphen"/>te Pintes meſure de Paris; &amp; cela avec une Machine d'environ trente trois pouces de dia<g ref="char:EOLhyphen"/>metre, laquelle on pourra facilement placer ſous le Tillac d'aucun Navire. Et depuis peu il s'en eſt fait dans le même Eſpace de Tems juſqu'a 140 <hi>Gallons,</hi> qui reviennent à cinq cens ſoixance Pintes. Or il eſt conſtant, que la plus grande Quantité d'Eau douce que l'on donne à chaque Matelot, c'eſt trois Pintes par jour. Dans un Vaiſſeau, où il y a un grand Equipage, l'on pourra avoir deux ou trois de ces Machi<g ref="char:EOLhyphen"/>nes à un prix fort raiſonnable, &amp; un ſeul Hom<g ref="char:EOLhyphen"/>me ſuffira pour y vaquer.</p>
+            <p>Qu. 2. <hi>En cas que cette Operation ſe faſſe par le moyen du Feu, il faudra peut être entretenir ſur Mer à grands frais un habile Chymiſte, ou quêcun qui s'entende en ces ſortes de Preparations.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Il ne ſera point neceſſaire d'avoir pour cela un Homme fort conoiſſant, car le moin<g ref="char:EOLhyphen"/>dre Matelot pourra dans une heure ou deux apprendre la Maniere de preparer cette Eau.</p>
+            <pb n="6" facs="tcp:105841:7"/>
+            <p>Qu. 3. <hi>On objecte, qu'il pourra arriver quêque Deſordre à la Machine; &amp; qu'en ce cas, ne trou<g ref="char:EOLhyphen"/>vant pas ſur Mer des Artiſans, ni des Outils propres à la remettre en etat, l'Eau douce pourroit manquer; ce qui auroit de fâcheuſes Suites.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> La Machine eſt faite d'une maniere à ſe conſerver tres facilement, &amp; ſans aucune apparence de tel Accident.</p>
+            <p>Qu. 4. <hi>On veut ſavoir, ſi l'on pourra ſe ſervir de cette Machine ſur Mer, quand il y aura Tem<g ref="char:EOLhyphen"/>pête.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Puis qu'il ſera ſi aiſé d'extraire en peu de tems quantité d'Eau douce, les Mariniers auront ſoin d'en faire bonne Proviſion par a<g ref="char:EOLhyphen"/>vance. Cependant on peut s'aſſeurer, que la Machine ne manquera point au plus fort de la Tourmente, &amp; qu'elle fournira aſſez d'Eau pour ſervir l'Equipage dans une telle Extre<g ref="char:EOLhyphen"/>mité. Temoin l'Epreuve qui s'en fit derniere<g ref="char:EOLhyphen"/>ment aux <hi>Dunes</hi> par pluſieurs Vaiſſeaux; qui etant là à l'ancre de gros Tems eprouverent, parmi l'agitation violente des Vents &amp; des Houles, l'Uſage &amp; la Fermeté de leurs Ma<g ref="char:EOLhyphen"/>chines.</p>
+            <p>Qu. 5. <hi>La Preparation ſe faiſant par le moyen, du Feu, elle expoſera le Vaiſſeau à un grand Dan<g ref="char:EOLhyphen"/>ger, &amp; la Fumêe même ne pourra qu'être Incom<g ref="char:EOLhyphen"/>mode.</hi>
+            </p>
+            <pb n="7" facs="tcp:105841:7"/>
+            <p>
+               <hi>Rep.</hi> La Machine peut être facilement pla<g ref="char:EOLhyphen"/>cée dans quêque Navire que ce ſoit, ſans au<g ref="char:EOLhyphen"/>cun Danger de Feu, ou aucune Incommodité de Fumée.</p>
+            <p>Qu. 6. <hi>On demande ſi les Frais de la Ma<g ref="char:EOLhyphen"/>chine, &amp; des Choſes qui en dependent, ſeront grands.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> On ne peut pas dire preciſément quelle en ſera la Depenſe, puis qu'il faudra propor<g ref="char:EOLhyphen"/>tionner les Machines à la grandeur des Navi<g ref="char:EOLhyphen"/>res. Mais une Machine de la derniere grandeur, avec tout ce qui en depend, ne reviendra tout au plus qu'a <hi>Dixhuit Livres Sterling,</hi> &amp; elle pourra ſervir pluſieurs années. Les Machines dont on ſe ſervira ſur Terre ſeront à bien meil<g ref="char:EOLhyphen"/>leur marché.</p>
+            <p>Qu. 7. <hi>Il s'agit de ſavoir ſi les Proviſions pour le Feu couteront cher, &amp; ſi elles prendront beau<g ref="char:EOLhyphen"/>coup de place dans un Vaiſſeau.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Cette Operation ſe fait à ſi petit feu, qu'il coutera peu de Choſe. Il ne ſera pas be<g ref="char:EOLhyphen"/>ſoin de beaucoup de Proviſion pour cela, &amp; l'Embaras n'en ſera pas grand.</p>
+            <p>Qu. 8. <hi>On demande ſi les Ingrediens ne pren<g ref="char:EOLhyphen"/>dront pas bien de la Place, &amp; s'ils ne ſeront pas fort Chers.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Une Barrique contiendra plus d'Ingre<g ref="char:EOLhyphen"/>diens qu'il ne faut pour faire le Voyage des
+<pb n="8" facs="tcp:105841:8"/>
+Indes Orientales à aller &amp; revenir; &amp; les In<g ref="char:EOLhyphen"/>grediens qui ſerviront à extraire prês de quatre cens Pintes d'Eau douce ne reviendront qu'a <hi>Douze ſoûs</hi> d'Angleterre.</p>
+            <p>Qu. 9. <hi>Suppoſé que l'Eau de Mer ſe puiſſe ainſi preparer, &amp; même en aſſez grande quantité, on peut douter ſi cette Eau etant ainſi preparée eſt ſalubre &amp; bonne à boire.</hi>
+            </p>
+            <p>
+               <hi>Rep.</hi> Le fameux Lord <hi>Bacon,</hi> qui a ecrit ſa<g ref="char:EOLhyphen"/>vamment ſur ce Sujet, n'a jamais eu la moindre penſée que l'Eau de Mer, etant deſſalée ſans aucun Ingredient nuiſible, fût mal ſaine. Ce<g ref="char:EOLhyphen"/>pendant, parce qu'il y a par tout des Gens en<g ref="char:EOLhyphen"/>vieux &amp; Enemis Mortels de l'Induſtrie, qui ſe plaiſent à etoufer les plus beaux Deſſeins au moment de leur Naiſſance, les Expoſans ont envoyé exprês pout la Satisfaction du Public une grande Quantité de cette Eau au Docteur <hi>King,</hi> Membre du College des Medecins de Londres, &amp; de la Societé Royale. Ce fameux Medecin a fait toutes ces belles Epreuves de cette Eau.</p>
+            <list>
+               <item>1. Qu'elle eſt plus Legere que la plupart des Eaux de Londres.</item>
+               <item>2. Qu'elle eſt tranſparente comme les autres Eaux, &amp; ſans aucun ſediment.</item>
+               <item>3. Qu'elle eſt meilleure à ſavonner que toute autre Eau, &amp; qu'elle prend moins de ſavon.</item>
+               <item>4. Que le Sucre s'y diſſout plus tôt.</item>
+               <pb n="9" facs="tcp:105841:8"/>
+               <item>5. Qu'elle s'evapore plus tôt que l'Eau com<g ref="char:EOLhyphen"/>mune.</item>
+               <item>6. Que bien loin de ſe corrompre, &amp; de devenir puante au bout de quêques ſemaines, comme fait l'Eau commune, celle ci a conſervé ſa Douceur plus de quatre mois de ſuite, &amp; n'a ſoufert aucun Changement; &amp; qu'elle pourra encore continuer long tems dans cet etat.</item>
+               <item>7. Qu'elle eſt auſſi bonne que toute autre Eau à faire de la Gelée.</item>
+               <item>8. Qu'elle eſt bonne à bouillir des Pois, du Poiſſon, du Beuf, du Mouton, &amp; toute autre Viande, ſans lui donner aucun mauvais Gout, ni aucune mauvaiſe Couleur.</item>
+               <item>9. Qu'elle n'a de ſoi même aucun mauvais Gout, &amp; qu'elle boût avec le Lait ſans le faire cailler.</item>
+               <item>10. Que les Fleurs, Plantes, &amp; generale<g ref="char:EOLhyphen"/>ment tous Vegetaux croiſſent parfaitement bien dans cette Eau; &amp; que de petits Animaux y vivent, &amp; y croiſſent.</item>
+            </list>
+            <p>A toutes ces ſolides Epreuves j'ajouterai, que pluſieurs Perſonnes de grande qualité, ſavoir les Comtes de <hi>Shrewsbury, Weſtmorland, Mul<g ref="char:EOLhyphen"/>grave,</hi> &amp; <hi>Burlington,</hi> les Lords <hi>Dunbar, Lum<g ref="char:EOLhyphen"/>ley, Falconbridge, Chumley,</hi> pluſieurs Gentils<g ref="char:EOLhyphen"/>hommes de qualité, des Officiers de la Marine, &amp; des Medecins, ont bû de cette Eau, ſans s'en être trouvé Incommodez en aucune Maniere.</p>
+            <pb n="10" facs="tcp:105841:9"/>
+            <p>Et, depuis les precedentes Editions de cet Imprimé, la plûpart des Miniſtres etrangers, plu<g ref="char:EOLhyphen"/>ſieurs autres Perſonnes de qualité, des Mar<g ref="char:EOLhyphen"/>chands les plus conſiderables, des Mariniers, &amp; autres perſonnes, ont mangé des Pois, du Poiſſon, &amp; de la Chair bouillie dans cette Eau deſſalée, ſans aucun mauvais effet. Grand Nombre de Perſonnes d'ailleurs ont bû quantité de cette Eau, qui ne s'en ſont point du tout mal trouvez.</p>
+            <p>En fin il y a pluſieurs Vaiſſeaux fretez, les uns pour les Indes Orientales, les autres pour les Occidentales, qui ont fait marché avec les Expoſans, &amp; qui fe ſont pourveus de leurs Ma<g ref="char:EOLhyphen"/>chines. Il y en a même qui en ont fait l'epreu<g ref="char:EOLhyphen"/>ve des leur arrivée aux <hi>Dunes,</hi> dont on a eté extremement ſatisfait.</p>
+            <p>Mais, pour être plus pleinement perſuadé de la Qualité ſalubre de cette Eau, on n'a qu'a bien peſer le Temoignage de ces Savans &amp; Illu<g ref="char:EOLhyphen"/>ſtres Medecins dont vous allez voir la Liſte.</p>
+            <pb facs="tcp:105841:9"/>
+            <pb facs="tcp:105841:10"/>
+            <pb n="11" facs="tcp:105841:10"/>
+            <floatingText xml:lang="fre" type="approbation">
+               <body>
+                  <head>L'Approbation du College des Medecins de Londres, &amp; de quêques autres Docteurs en Medecine.</head>
+                  <p>LA Gazette nous ayant informé depuis quêques mois, que le Sieur <hi>Robert Fitzgerald</hi> avoit trouvé le Moyen de rendre douce l'Eau de Mer, &amp; de fournir tout autant de cette Eau douce qu'il ſera neceſſaire pour l'Uſage des Vaiſſeaux ſur Mer; Et, comme quêques Perſonnes pourroient douter ſi cette Eau etant ainſi ſeparée de ſon Sel ſeroit bonne, &amp; n'auroit point quêque qualité malfaiſante, Nous avons jugé à propos de nous informer tres particuliere<g ref="char:EOLhyphen"/>ment de Mr. <hi>Boyle</hi> là deſſus. Qui nous a donné beaucoup de ſatisfaction, en nous aſseurant que la Preparation s'en fait par le Feu, que le peu d'Ingre<g ref="char:EOLhyphen"/>diens que l'on y emploie n'ont aucune qualité nuiſible, &amp; qu'ils ſe fixent par le Feu. Si bien qu'aprês quê<g ref="char:EOLhyphen"/>ques Epreuves que nous avons veuës d'ailleurs, faites par des Membres de nôtre Secieté, Nous declarons que c'eſt nôtre Sentiment, que la dite Eau etant ainſi ſeparée de ſon Sel eſt Salubre, que l'on peut s'en ſer<g ref="char:EOLhyphen"/>vir ſans aucun Danger, &amp; qu'elle eſt du moins auſſi Saine que toute autre Eau dont on ſe ſerve ſur Mer. Laquelle Declaration nous faiſons en faveur &amp; à la Requête du dit Sieur <hi>Robert Fitzgerald.</hi>
+                  </p>
+                  <pb n="12" facs="tcp:105841:11"/>
+                  <closer>
+                     <signed>
+                        <list>
+                           <item>Le Dr. <hi>Cox</hi> Preſident,</item>
+                           <item>Le <hi>Chevalier</hi> Scarborough,</item>
+                           <item>Daniel Whiſtler, <hi>D. M.</hi>
+                           </item>
+                           <item>
+                              <hi>Mr.</hi> Weatherly, <hi>D. M.</hi>
+                           </item>
+                           <item>Guillaume Denton, <hi>D. M.</hi>
+                           </item>
+                           <item>
+                              <hi>Le Chevalier</hi> Millington.</item>
+                           <item>Walter Needham, <hi>D. M.</hi>
+                           </item>
+                           <item>Thomas Short, <hi>D. M.</hi>
+                           </item>
+                           <item>Thomas Allen, <hi>D. M.</hi>
+                           </item>
+                           <item>Edmond Dickinſon, <hi>D. M.</hi>
+                           </item>
+                           <item>Guillaume Croone, <hi>D. M.</hi>
+                           </item>
+                           <item>Richard Lower, <hi>D. M.</hi>
+                           </item>
+                           <item>Jean Windebank, <hi>D. M.</hi>
+                           </item>
+                           <item>Daniel Cox, <hi>D. M.</hi>
+                           </item>
+                           <item>Jaques Rupine, <hi>D. M.</hi>
+                           </item>
+                           <item>Charles Conqueſt, <hi>D. M.</hi>
+                           </item>
+                           <item>Edmond King, <hi>D. M.</hi>
+                           </item>
+                           <item>
+                              <hi>Mr.</hi> Willoughby, <hi>D. M.</hi>
+                           </item>
+                           <item>Thomas Sydenham, <hi>D. M.</hi>
+                           </item>
+                           <item>Edward Tyſon, <hi>D. M.</hi>
+                           </item>
+                           <item>Nehemie Crew, <hi>D. M.</hi>
+                           </item>
+                           <item>David Abercromby, <hi>D. M.</hi>
+                           </item>
+                           <item>Andre Creagh, <hi>D. M.</hi>
+                           </item>
+                        </list>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="13" facs="tcp:105841:11"/>
+            <p>CHacun ſait, que l'Angleterre depuis bien des Siecles a excellé dans la Medecine. Mais jamais cette Science n'y a eté dans un ſi haut degré de perfection que dans le Siecle où nous ſommes, ſoit au regard de la Pratique ou de la Speculation. Et il ſuffit d'alleguer l'Iſlu<g ref="char:EOLhyphen"/>ſtre College des Medecins de Londres, pour prouver cette Verité. Leur Savoir extraordi<g ref="char:EOLhyphen"/>naire &amp; leur grande Experience leur ont acquis une ſi haute Eſtime, qu'elle les rend par tout Recommandables. Auſſi c'eſt à ces <hi>Meſſieurs</hi> que l'on renvoie ceux qui voudront s'informer plus particulierement de la qualité de cette Eau. Le Temoignage qu'ils en rendent a d'au<g ref="char:EOLhyphen"/>tant plus de force qu'il eſt à leur Prejudice. Car il eſt croyable, au fond, que l'Uſage de cette Eau ſalubre etant une fois en vogue pour<g ref="char:EOLhyphen"/>ra diminuer le nombre des Patiens que les mauvaiſes Eaux des Endroits Maritimes, &amp; les Eaux corrompues dont on ſe ſert ſur Mer, leur ont fournis juſqu'ici.</p>
+            <pb n="14" facs="tcp:105841:12"/>
+            <floatingText xml:lang="fre" type="approbation">
+               <body>
+                  <head>La Lettre de Mr. <hi>Boyle,</hi> ecrite au ſavant Docteur <hi>Jean Beale,</hi> un des Membres de la Societé Royale, ſur l'Eau de Mer deſſalée.</head>
+                  <opener>
+                     <salute>MONSIEUR,</salute>
+                  </opener>
+                  <p>POUR vous ſatisfaire ſur la nouvelle Inventi<g ref="char:EOLhyphen"/>on de rendre douce l'Eau Salée, il faut que Je vous diſe premierement, qu'un de mes plus proches Parens, Mr. <hi>Fitzgerald,</hi> accompagné de quêques au<g ref="char:EOLhyphen"/>tres Gentils-hommes de merite, allerent il y a quêque tems faire la Reverence au Roi, dans le deſſein de Lui en donner avis. Ils dirent donc à ſa Majeſté, qu'ils avoient le Secret, non ſeulement de rendre douce l'Eau ſalée, mais auſſi de la rendre ſalubre &amp; bonne à boire, &amp; mêmes d'en preparer grande quantité en peu de tems, &amp; à peu de frais. Ils repreſenterent d'ailleurs à Sa Majeſté, que j'avois examiné cette Affaire, &amp; que je m'etois declaré en faveur de ce Projet; qui fut en ſuite publié dans la Gazette.</p>
+                  <p>Le Roi là deſſus me commanda, en des termes trop obligeans, de me rendre auprês de Lui, pour Lui en donner un entier Eclairciſſement. Et ſa Majeſté me fit des Objections auſſi fortes contre ce Deſsein, qu'auroit ſeu faire le plus eclairé entre les Savans du Siecle. A cela je repondis, qu'il y avoit deux Choſes differentes à conſiderer dans cette
+<pb n="15" facs="tcp:105841:12"/>
+Invention; Savoir la Partie <hi>Mecanique,</hi> qui re<g ref="char:EOLhyphen"/>garde la Machine &amp; la Maniere dont il s'en faut ſervir; &amp; la Partie <hi>Phyſique,</hi> qui n'a pour Obiet que la Bonté &amp; la Qualité Salubre de l'Eau. Je fis mes excuſes au Roi ſur la premiere Partie, &amp; je ne voulu pas pretendre de repondre aux fortes Ob<g ref="char:EOLhyphen"/>jections que ſa Majeſté me fit ſur ce Point la. Je laiſſai cette Tâche aux Intereſſez, qui etoient prets à le faire.</p>
+                  <p>Pour ce qui eſt de la Bonté de l'Eau ainſi preparée, j'en avois fait auparavant diverſes Epreuves; qui, bien loin de me faire douter de ſa qualité ſalubre, m'ont donné lieu de croire qu'elle eſt bien conditionnée, &amp; qu'elle peut être de grand uſage, principalement ſur Mer. J'en fis voir quêques Epreuves à ſa Ma<g ref="char:EOLhyphen"/>jesté, qui en fut tres ſatisfaitre, &amp; qui eut même la bonté là deſſus de diſcourir quêque tems ſur ce Sujet en Prince ſavant, &amp; d'une maniere à inſtruire les plus e<g ref="char:EOLhyphen"/>clairez. En fin le Roi renvoya les Entrepreneurs, avec promeſſe de ſa Protection &amp; de ſa Faveur Royale.</p>
+                  <p>Aprês ce que je vien de dire, il faut maintenant qu'en peu de mots je vous faſſe voir les principales Choſes qui m'ont porté à croire que cette Eau ainſi preparée eſt ſalubre; D'ou il ſera aiſé de conclure les grands Avantages qui en reviendront au Public. Premierement j'ai conſideré l'Eau de Pluye qui tombe dans les Endroits de l'Ocean les plus reculez de la Terre, &amp; que l'on recoit (ſi ce n'eſt peut être en quêques endroits de la Zone Torride) comme une Eau qui n'eſt pas mauvaiſe. Sur quoi j'ai fait cette Reflexion, qu' aſſeurément la plupart de ces Eaux
+<pb n="16" facs="tcp:105841:13"/>
+de Pluye qui tombent dans ces vaſtes Deſerts de l'Ocean viennent de l'Ocean même, &amp; qu'elles ne ſont autre choſe qu'une Eau de Mer degagée de ſon Sel. <hi>Redit Agmine dulci.</hi>
+                  </p>
+                  <p>Enſuite j'ai trouvé, &amp; le Roi lui même en est tombé d'accord, que cette Eau preparée ſuivant la nouvelle Invention a tres bon gout, &amp; n'a au<g ref="char:EOLhyphen"/>cun Sel dont on ſe puiſſe appercevoir. J'en ai moi même gardé plus de quatre mois dans une grande Phiole de Chriſtal, que j'ai tenue exprês debouchée la plupart du tems ſur une Fenêtre qui regarde le Midi. Où elle s'eſt ſi bien conſervée, qu'elle n'a changé pendant tout ce tems là, ni de Gout, ni d'Odeur, ni de Couleur; &amp; je ſuis perſuadé, qu'elle ſe conſervera dans cet etat beaucoup plus long tems. Cependant j'en ai fait gouter à pluſieurs des plus habiles Medecins du College de Londres, qui l'ont ſentie &amp; goutée avec Approbation.</p>
+                  <p>D'ailleurs j'ai remarqué, qu'elle eſt bonne à ſavon<g ref="char:EOLhyphen"/>ner; ce que ne ſont pas la plupart des Eaux de Pompe, ni beaucoup d'autres Eaux, pour peu qu'elles aient de Sel, quoi qu'imperceptible. Elle eſt encore tres bonne à bouillir des Pois, ce qui eſt marque de benne Eau parmi les Gens de Marine. J'ajoute à cela, que cette Eau eſt beaucoup moins peſante qu'on ne s'imagine d'abord. L'Epreuve que j'en ai faite avec de bonnes Balances, &amp; un Inſtrument que j'ai fait faire exprês pour peſer les Liqueurs dans la der<g ref="char:EOLhyphen"/>niere exactitude, fait foi de cette Verité. Car, s'il quêque Differenee dans la peſanteur de cette Eau
+<pb n="17" facs="tcp:105841:13"/>
+d'avec la même quantité d'Eau qui n'eſt pas diſtillée, c'eſt ſi peu de choſe, qu'elle ne merite pas qu'on en prenne conoiſſance. Je parle avec un <hi>ſi,</hi> parce qu'il eſt plus difficile d'être exact dans ces Epreuves deli<g ref="char:EOLhyphen"/>cates, que les perſonnes qui n'y ſont pas verſées pour<g ref="char:EOLhyphen"/>roient bien s'imaginer. En fin la Difference n'eſt qu'entre la <hi>400.</hi> &amp; <hi>500.</hi> partie du poids de l'Eau commune. Ce qui eſt peu de choſe, en comparaiſon de ce que les Gens de Mer, &amp; quêques ſavans Au<g ref="char:EOLhyphen"/>teurs, ont remarqué des Eaux naturelles qui ſont bon<g ref="char:EOLhyphen"/>nes à boire.</p>
+                  <p>Je pourrois encore ſur ce ſujet vous alleguer la Pratique du dernier Grand Duc de Toſcane, un Prince qui avoit de grandes Lumieres, &amp; qui etoit le Patron de la celebre Academie des Philoſophes Lyn<g ref="char:EOLhyphen"/>cées. Ce Prince etoit extremement ſoigneux de ſa Santé; &amp; l'on aſſeure, qu'il ne beuvoit ordinaire<g ref="char:EOLhyphen"/>ment que de l'Eau diſtillée. Il y a beaucoup d'autres Choſes que je pourrois encore avancer en faveur de ce Secret, ſi le Tems me le permettoit, &amp; ſi peut être la Prudence même ne m'obligeoit à le remettre à une autre fois.</p>
+                  <p>Ce qui me reſte maintenant à faire pour vôtre ſatisfaction, c'eſt de vous dire la Raiſon la plus im<g ref="char:EOLhyphen"/>portante, qui m'ae perſuadé que l'Eau dont je parle eſt parfaitement degagée de tout Sel. Vous ſavez, Monſieur, que ce n'eſt pas d'aujeurd'hui que l'on a tâché de trouver le Secret de deſſaler l'Eau de Mer, &amp; que pluſieurs perſonnes d'eſprit s'en ſont mêlées, à divers Tems &amp; en pluſieurs Païs, tant par le motif
+<pb n="18" facs="tcp:105841:14"/>
+de la Gloire que par celui de l'Interet. Mais il s'a<g ref="char:EOLhyphen"/>giſſoit d'ôter à l'Eau ſon Sel, ſans y mettre aucune Choſe qui rendît cette Eau malfaiſante; &amp; c'eſt en quoi l'on s'eſt trouvé court.</p>
+                  <p>Cependant on demeuroit d'accord de tous côtez, que le Sel de l'Eau de Mer etoit la ſeule Choſe qui l'empechoit d'être bonne à boire. D'ou il me fut aiſé de tirer une Conſequence en faveur de l'Eau que nous preparons. Car, ayant ecrìt il y a dêja long tems un Traité de la Salure de la Mer, je m'etois appliqué à trouver les Moyens de comparer les Eaux au regard de leur Sel. En fin j'ai trouvé, que l'Eau de Mer que nous preparons eſt plus degagée de Sel que les Eaux qu'on boit ordinairement à Londres. J'en fis voir l'experience à Meſſieurs les Expoſans, qui en furent en même tems ſurpris &amp; convaincus. Mais ce qui me donna le plus de ſatisfaction, c'eſt une Epreuve que je fis ſur ce ſujet avec beaucoup de ſoin. J'en fis l'ouverture au Roi, &amp; je n'atten que l'Oc<g ref="char:EOLhyphen"/>caſion, &amp; les Ordres de ſa Majeſté, pour lui com<g ref="char:EOLhyphen"/>muniquer la Maniere dont cela ſe fait.</p>
+                  <p>Sur ce pié là vouz pouvez, Monſieur, vous aſ<g ref="char:EOLhyphen"/>ſeurer de ces deux Choſes Importantes. L'une, que par cette Epreuve j'ai decouvert ce qui peut être vous paroitra bien etrange; Savoir que, ſi dans plus de deux Onces d'Eau il y avoit ſeulement la quantité d'un Grain de Sel, je m'en appercevrois d'abord. L'autre, que par ce critique Examen je n'ai pû de<g ref="char:EOLhyphen"/>couvrir qu'il y eût la quantité d'une millieme partie de Sel dans nôtre Eau preparée. Au lieu que, par
+<pb n="19" facs="tcp:105841:14"/>
+des Epreuves faites à deſſein &amp; avec toute l'exacti<g ref="char:EOLhyphen"/>tude poſſible, j'ai trouvé que l'Eau de nôtre Mer contenoit une <hi>44</hi> ou <hi>45</hi> Partie de bon Sel ſec. C'eſt à dire que <hi>44. Pintes</hi> de nôtre meſure, ou à peu prês autant de Livres d'Eau de Mer, rendroient environ une Livre de Sel commun.</p>
+                  <p>Ainſi, Monſieur, vous avez dans cette Feuille un Abbregé de nos Tranſactions ſur ce Point, ſans fard &amp; ſans artifice. J'ajouterai ſeulement que, com<g ref="char:EOLhyphen"/>me j'ai contribué quêque choſe à faire valoir une In<g ref="char:EOLhyphen"/>vention ſi utile, je ſouhaite de tout mon coeur qu'elle reiiſſiſſe. Non que j'y aie aucun Interet particulier, quoi qu' à la verité les Expoſans aient eu la bonté de me faire des Offres fort avantageuſes. Mais je le ſouhaite uniquement dans la veuë que cette Invention pourra être d'une grande Utilité, &amp; que toute la Terre en profitera. C'eſt ce qu'il n'eſt pas beſoin de faire voir à un Eſprit penetrant comme le vôtre. Ainſi je n'ai qu'a me ſouſcrire,</p>
+                  <closer>
+                     <salute>Monſieur,</salute>
+                     <signed>Vôtre tres humble Serviteur, <hi>R. BOYLE.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="20" facs="tcp:105841:15"/>
+            <p>Aprês tant de Temoignages Illuſtres &amp; ſi forts en faveur de ce grand Deſſein, j'ajouterai l'Approbation de ſa Majeſté Britannique. Qui, depuis la premiere Publication de cet Impri<g ref="char:EOLhyphen"/>mé, ayant veu des Preuves convaincantes de la Qualité ſalubre de cette Eau, a reſolu d'en ſixer l'Uſage dans ſes Garniſons Maritimes. C'eſt ce qu'Elle a fait publier, par Ordre exprês, dans diverſes Gazettes, particulierement dans celle <hi>du Lundi,</hi> 5 <hi>de Novembre,</hi> 1683.</p>
+            <floatingText xml:lang="fre" type="approbation">
+               <body>
+                  <opener>
+                     <dateline>De White-hall, <date>le 2 de Nov.</date>
+                     </dateline>
+                  </opener>
+                  <p>PAR Ordre du Roi, le Sieur <hi>Boyle</hi> eſt venu en preſence de ſa Majeſté, pour Lui faire voir des Preuves de ſa Maniere delicate d'examiner la Douceur &amp; la Salure de l'eau, &amp; pour en faire l'Application à l'Eau de Mer preparée ſuivant la nouvelle Invention des Intereſſez. Outre la Perſonne du Roi, il y avoit ſon Alteſse Royale, le Duc de Grafton, &amp; pluſieurs autres Perſonnes de qualité, qui ont eté Temoins Oculaires de cette Exporience. Et le Sieur <hi>Boyle</hi> s'en eſt ſi bien acquitté, par le moyen d'un certain Liquide; qu'il etoit aiſé de decouvrir dans une Quantité d'Eau s'il y avoit ſeulement une milliéme partie de Sel, &amp; que l'Eau de Mer pre<g ref="char:EOLhyphen"/>parée par les Expoſans etoit du moins auſſi degagée de
+<pb n="21" facs="tcp:105841:15"/>
+Sel que les meilleures Eaux qui'l y ait autour de Londres. Dequoi ſa Majeſté etant tres ſatisfaite, &amp; par conſequent fortement perſuadée de la qualité ſ<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>lubre de cette Eau, elle a declaré qu'elle vouloit Elle même faire valoir une Invention de cette Impor<g ref="char:EOLhyphen"/>tance, en introduiſant l'Uſage de cette Eau dans ſes Garniſons Maritimes, que la Nature n'a pas pour<g ref="char:EOLhyphen"/>veuës de bonnes Eaux.</p>
+               </body>
+            </floatingText>
+            <p>Depuis cette Declaration du Roi, un des Expoſans a receu une Lettre de Mr. Macdonnel, Capitaine du <hi>Grey<g ref="char:EOLhyphen"/>hound,</hi> un des Vaiſſeaux de ſa Majeſté. La Lettre eſt datée de ſon Bord, ſur les Côtes d'Eſpagne, du 3 de Nov. 1683, &amp; en voici la Copie.</p>
+            <floatingText xml:lang="fre" type="approbation">
+               <body>
+                  <opener>
+                     <salute>MONSIEUR,</salute>
+                  </opener>
+                  <p>POur bien eprouver vôtre Eau de Mer, je l'ai miſe à fond de Cale, &amp; l'y ai laiſſée l'eſpace de quatre mois. Si elle n'avoit eté extraordinaire<g ref="char:EOLhyphen"/>ment bonne, il n'y a point de doute qu'elle ne ſe fût corrompue; &amp; que, bien loin d'être utile, elle n'eût eté malfaiſante. Mais je vous aſſeure, que je fus agreablement ſurpris, lors que j'en decouvris la bonté aprês une ſi longue Epreue. J'avois hier dans nôtre Bord pluſieurs Officiers, à qui je fis gouter inſen<g ref="char:EOLhyphen"/>ſiblement de vôtre Eau, ſans leur dire de quelle Eau
+<pb n="22" facs="tcp:105841:16"/>
+c'etoit. Pour pallier la choſe, je feignis que c'etoit d'une Eau de Fontaine où j'avois fait aiguade, à <hi>12</hi> lieuës au Sud de <hi>Salé.</hi> Ils tomberent tous d'accord, qu'elle etoit auſſi bonne que l'Eau de <hi>Tanger,</hi> qui paſſe pour la meilleure Eau du Detroit. Mais ils furent bien ſurpris, quand je leur decouvris la Verité de la choſe, &amp; que je leur dis que c'etoit de vôtre Eau de Mer deſſalée. Ils firent pendant quêque tems difficulté de me croire. Mais ils avouërent conſtamment, que c'etoit (comme de fait) une tres bonne Eau, &amp; me prie<g ref="char:EOLhyphen"/>rent même de vous en donner avis. Je ſuis au reſte,</p>
+                  <closer>
+                     <salute>Monſieur,</salute>
+                     <signed>Vôtre tres humble Serviteur, <hi>Rand. Macdonnel.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="23" facs="tcp:105841:16"/>
+            <p>La Rigueur de l'Hiver paſſé etoit ſi extraordi<g ref="char:EOLhyphen"/>naire, que pluſieurs Vaiſſeaux arrêtez par les Glaces perirent alors malheureuſement, faute d'Eau. Le <hi>Preſident,</hi> riche Vaiſſeau des Indes, eut le malheur d'être de ce Nombre. C'eſt pourquoi ſa Majeſté jugea à propos, pour le Bien du Public, d'ordonner la Publication de l'Avis qui ſuit, &amp; cela dans la Gazette du 6. de Mars 1683.</p>
+            <floatingText xml:lang="fre" type="declaration">
+               <body>
+                  <opener>Le Roi ayant appris de divers Endroits le mal<g ref="char:EOLhyphen"/>heureux etat où ſe ſont trouvez depuis peu quéques uns de ſes Sujets dans leur. Voyages de Mer, faute d'Eau douce, a commandé aux Perſonnes Intereſſeés dans la nouvelle Invention de rendre douce l'Eau Salée de ſe ſervir de toutes les Voies les plus propres pour publier l'Utilité de cette Invention. Dont ſa Majeſté a eté ſi ſatisfaite, qu'Elle veut bien que, non ſeulement ſes Vaiſſeaux ſoient pourveus de leurs Machines, mais auſſi ſes Garniſons qui manquent de bomse Eau douce.</opener>
+                  <pb n="24" facs="tcp:105841:17"/>
+                  <head>AVIS.</head>
+                  <p>LES Perſonnes compriſes dans la Patente du Roi, pour faire valoir le Secret de rendre Douce l'Eau ſalée, ſont le Sieur <hi>Robert Fitz<g ref="char:EOLhyphen"/>gerald,</hi> le Colonel <hi>Oglethorp,</hi> le Sieur <hi>Bridgeman,</hi> le Sieur <hi>Thomas Maull,</hi> &amp; le Sieur <hi>Patrick Trant.</hi> Qui ſe propoſant le bien du Publick, comme le leur propre, s'offrent de traiter avec tous ceux qui vou<g ref="char:EOLhyphen"/>dront s'accommoder de la Machine &amp; des Ingrediens. Et, comme c'est une Affaire où il s'agit de la Santé &amp; de la Vie mêmes de ceux qui s'en ſerviront, les Expoſans prendront un Soin extraordinaire d'empecher que les Ingrediens ne ſoient contrefaits &amp; falſiſiez; &amp; cela en y appoſant des Marques ſi ſeures &amp; ſi particulieres, qu'il ſera tres mal aiſé de les contrefaire.</p>
+                  <p>Si quêque Communauté, Societé, ou quê<g ref="char:EOLhyphen"/>que Particulier, ſouhaite de traiter avec leſdits Expoſans, on n'aura qu'a le faire ſavoir à quêque Membre de ce Corps. Et,
+<pb n="25" facs="tcp:105841:17"/>
+l'on pourra addreſſer les Lettres, <hi>au Coffee<g ref="char:EOLhyphen"/>houſe de</hi> Garway, <hi>vis à vis la Bourſe Royale; ou au Coffee-houſe de</hi> William <hi>en Bow<g ref="char:EOLhyphen"/>ſtreet au Commun Jardin; ou bien à Mr.</hi> Jean Pye, <hi>en Brook-ſtreet prês d'<g ref="char:EOLhyphen"/>Holborne.</hi> Ce dernier a un Ordre parti<g ref="char:EOLhyphen"/>culier des Expoſans de recevoir les Propo<g ref="char:EOLhyphen"/>ſitions par ecrit qu'on leur addreſſera.</p>
+               </body>
+            </floatingText>
+            <trailer>FIN.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
